@@ -1,0 +1,18 @@
+# vscode
+.vscode
+
+# hardhat
+artifacts
+cache
+deployments
+node_modules
+typechain-types
+
+.env
+
+
+.DS_Store
+
+venv/
+__pycache__/
+*.pyc
